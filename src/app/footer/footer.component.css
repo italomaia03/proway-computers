@@ -1,4 +1,4 @@
-.footer {
+footer {
   background-color: var(--light-gray);
   color: var(--gray);
   font-size: 18px;
@@ -32,10 +32,11 @@
   text-align: justify;
 }
 
-.footer i {
-  color: var();
+footer i {
+  color: var(--orange);
+  color: orange;
 }
 
-.footer li {
-  margin: 10px 0;
+footer li {
+  margin-top: 10px;
 }
